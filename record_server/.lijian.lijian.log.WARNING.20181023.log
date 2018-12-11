@@ -1,4 +1,0 @@
-Log file created at: 2018/10/23 10:21:07
-Running on machine: lijian
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-E1023 10:21:07.457381  3279 webserver.c:427] http服务监听线程 Failed to create listener
