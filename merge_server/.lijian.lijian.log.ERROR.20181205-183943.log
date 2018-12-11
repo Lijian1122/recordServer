@@ -1,0 +1,4 @@
+Log file created at: 2018/12/05 18:39:43
+Running on machine: lijian
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1205 18:39:43.006294 28369 mergeMonitor.c:119] serverName:mergeServer

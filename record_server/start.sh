@@ -1,0 +1,1 @@
+nohup ./recordMonitor recordServer>&service.8000.log &

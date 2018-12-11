@@ -1,0 +1,12 @@
+# PROG = simplest_web_server
+# MODULE_CFLAGS=-DMG_DISABLE_DAV_AUTH -DMG_ENABLE_FAKE_DAVLOCK
+# include ../examples.mk
+
+all: client2
+
+client2: client2.c mongoose.c mongoose.h
+	gcc -W -Wall -o client2 client2.c  mongoose.c -lpthread -ldl
+
+clean:
+	rm client2
+

@@ -1,0 +1,4 @@
+Log file created at: 2018/12/05 18:21:52
+Running on machine: lijian
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1205 18:21:52.294396 20918 web.c:162] Failed to create listener
